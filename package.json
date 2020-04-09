@@ -1,0 +1,23 @@
+{
+  "name": "Officeworks Booklet Print Uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fnLinks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Ben Doherty",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "playwright": "^0.12.1"
+  }
+}
