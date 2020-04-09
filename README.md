@@ -12,7 +12,7 @@ You're in the right place!
 
 I needed to do exactly that, so I made a script to do the uploading for me.
 
-Office works has a good product for a good price, but it's not easy to upload a lot of documents as there's a lot of clicking involved. That's fine for 2&ndash;3, but by 4 it's starting to get pretty tiring.
+[Officeworks](https://www.officeworks.com.au/ has a good product for a good price, but it's not easy to upload a lot of documents as there's a lot of clicking involved. That's fine for 2&ndash;3, but by 4 it's starting to get pretty tiring.
 
 This script has a lot of baked in variables because it's set up for me. If anyone ever finds this and wants to use it, raise an issue and I'll make it easier to use.
 
